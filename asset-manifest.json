@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.b89ac6d3.css",
+    "main.js": "/Portfolio/static/js/main.ded75fc0.js",
+    "static/media/MANN0177.png": "/Portfolio/static/media/MANN0177.fd81bebb6874f90deeea.png",
+    "static/media/Codepen.png": "/Portfolio/static/media/Codepen.71275b473eeb280c6941.png",
+    "static/media/weather.png": "/Portfolio/static/media/weather.23f7a3f02abb6f0796f7.png",
+    "static/media/spotify.png": "/Portfolio/static/media/spotify.a0ab00bb6f589a27957b.png",
+    "static/media/Tailwind_CSS.png": "/Portfolio/static/media/Tailwind_CSS.9c2e5bcf4f97d73e438e.png",
+    "static/media/reduxtoolkit.png": "/Portfolio/static/media/reduxtoolkit.9b69b0836cd2a1d6d73e.png",
+    "static/media/github2.png": "/Portfolio/static/media/github2.390e05ebbe5f40543121.png",
+    "static/media/html.png": "/Portfolio/static/media/html.90281b5a0023d05890c3.png",
+    "static/media/JavaScript2.png": "/Portfolio/static/media/JavaScript2.062825dbceed44567e91.png",
+    "static/media/material-ui.png": "/Portfolio/static/media/material-ui.5b2d8a0a309d9f7d47c1.png",
+    "static/media/calculator2.png": "/Portfolio/static/media/calculator2.4ef1edd8352cf0396cca.png",
+    "static/media/stopwatch2.png": "/Portfolio/static/media/stopwatch2.df8f724259bd2453e232.png",
+    "index.html": "/Portfolio/index.html",
+    "main.b89ac6d3.css.map": "/Portfolio/static/css/main.b89ac6d3.css.map",
+    "main.ded75fc0.js.map": "/Portfolio/static/js/main.ded75fc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b89ac6d3.css",
+    "static/js/main.ded75fc0.js"
+  ]
+}
